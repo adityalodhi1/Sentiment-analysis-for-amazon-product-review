@@ -1,1 +1,1 @@
-# Sentiment-analysis-for-amazon-product-review
+This project focuses on sentiment analysis, a technique used to identify and classify the emotional tone behind text. By processing input sentences, the model predicts whether the sentiment is positive, negative, or neutral. It can be applied to product reviews, social media posts, customer feedback, and more.
